@@ -1,4 +1,1 @@
-welcome
-Hello all
-
-Second line
+git clone
